@@ -5,9 +5,9 @@
 ## 👤 Autor del proyecto
 
 * **Nombre completo:** Gonzalo Bravo Alliende
-* **Sección:** [Escribe aquí tu sección]
-* **Carrera:** Ingeniería en Informática
-* **Sede:** [Escribe aquí tu sede]
+* **Sección:** Desarrollo Orientado a Objetos I
+* **Carrera:** Analista Programador
+* **Sede:** Duoc ONLINE
 
 ---
 
